@@ -21,9 +21,10 @@ Git-session-1-task/
 ├── file4
 ├── screenshots/
 │ ├── log-oneline.png
-│ ├── reset.png
+│ ├── reset1.png
+│ ├── reset2.png
 │ ├── reflog.png
-│ ├── rebase-success.png
+│ ├── log-oneline-decorate-all-graph.png  
 └── README.md
 
 ## 📸 Screenshots
