@@ -1,17 +1,12 @@
-# Git Session 1 Task
+# Git Fundamentals: Branching, Resetting & Rebasing Practice
 
 ## 👩‍💻 Author
 **Farah Nabil Abdo Hareb**
 
 ## 📘 Description
 
-This repository contains my solution for the Git Session 1 task. The task includes:
-
-- Creating and working with multiple branches (`develop`, `alpha`)
-- Making separate commits on each branch
-- Using `git reset --hard` and `git reflog` to navigate history
-- Rebasing one branch onto another
-- Visualizing the git history using log graph
+A hands-on Git project demonstrating essential version control operations including branching (develop, alpha), commit history manipulation using git reset --hard and git reflog, and rebasing one branch onto another. The project also includes visualization of the Git history using git log --graph, with step-by-step screenshots for each operation.
+This repository serves as a practical exercise to solidify understanding of Git internals and history navigation.
 
 ## 📁 Folder Structure
 Git-session-1-task/
